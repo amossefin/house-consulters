@@ -2,4 +2,6 @@
 
 *Currently of no real use other than for demonstration purposes*
 
-Stack: Java, Maven, Spring Boot, Bootstrap
+Stack: Java, Maven, Spring (several modules), Bootstrap
+
+Developed on Atom
