@@ -1,2 +1,14 @@
-lib/Application.class
-lib/MemberController.class
+com/amossefin/auth/service/UserDetailsServiceImpl.class
+com/amossefin/auth/model/Role.class
+com/amossefin/auth/WebSecurityConfig.class
+com/amossefin/auth/repository/UserRepository.class
+com/amossefin/auth/WebApplication.class
+com/amossefin/auth/service/UserServiceImpl.class
+com/amossefin/auth/service/SecurityService.class
+com/amossefin/auth/service/UserService.class
+com/amossefin/auth/web/UserController.class
+com/amossefin/auth/service/SecurityServiceImpl.class
+com/amossefin/auth/repository/RoleRepository.class
+com/amossefin/MemberController.class
+com/amossefin/auth/model/User.class
+com/amossefin/auth/validator/UserValidator.class

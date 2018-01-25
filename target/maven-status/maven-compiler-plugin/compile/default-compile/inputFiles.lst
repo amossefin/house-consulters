@@ -1,2 +1,14 @@
-/Users/mossy/pet_projects/house-consulter/src/main/java/lib/MemberController.java
-/Users/mossy/pet_projects/house-consulter/src/main/java/lib/Application.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/service/SecurityService.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/repository/RoleRepository.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/WebApplication.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/model/User.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/web/UserController.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/validator/UserValidator.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/service/SecurityServiceImpl.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/model/Role.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/MemberController.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/WebSecurityConfig.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/service/UserServiceImpl.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/repository/UserRepository.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/service/UserDetailsServiceImpl.java
+/Users/mossy/pet_projects/house-consulter/src/main/java/com/amossefin/auth/service/UserService.java
