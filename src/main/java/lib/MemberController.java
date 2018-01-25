@@ -1,4 +1,4 @@
-package member;
+package lib;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
