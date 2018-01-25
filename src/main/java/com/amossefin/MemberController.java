@@ -1,4 +1,4 @@
-package lib;
+package com.amossefin;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

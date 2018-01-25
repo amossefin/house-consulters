@@ -1,4 +1,4 @@
-package lib;
+package com.amossefin;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
